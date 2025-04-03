@@ -35,7 +35,7 @@ El proyecto utiliza clases y funciones para mantener una estructura modular y cl
 - El programa limpia la pantalla automáticamente (excepto al mostrar el inventario).
 
 ## Autor
-Sebastian
+Sebastian Lopez
 
 
 
